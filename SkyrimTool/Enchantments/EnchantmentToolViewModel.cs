@@ -1,4 +1,4 @@
-using CommunityToolkit.Mvvm.ComponentModel;
+ï»¿using CommunityToolkit.Mvvm.ComponentModel;
 using SkyrimTool.Enchantments.Models;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
@@ -7,10 +7,8 @@ namespace SkyrimTool.Enchantments;
 
 public partial class EnchantmentToolViewModel : ObservableObject
 {
-    private readonly EnchantmentTool _tool = new();
-
     /// <summary>
-    /// ¹Ø¼ü×Ö
+    /// å…³é”®å­—
     /// </summary>
     [ObservableProperty]
     public partial string KeyWord { get; set; } = string.Empty;
@@ -18,7 +16,7 @@ public partial class EnchantmentToolViewModel : ObservableObject
     partial void OnKeyWordChanged(string value)
     {
         Enchantments.Clear();
-        foreach (EnchantmentModel enchantment in _tool.Enchantments)
+        foreach (EnchantmentModel enchantment in EnchantmentTool.Enchantments)
         {
             if (!CanAdd(enchantment, value)) continue;
             Enchantments.Add(enchantment);
@@ -26,63 +24,63 @@ public partial class EnchantmentToolViewModel : ObservableObject
     }
 
     /// <summary>
-    /// ¸½Ä§×é
+    /// é™„é­”ç»„
     /// </summary>
     public ObservableCollection<EnchantmentModel> Enchantments { get; } = [];
 
     /// <summary>
-    /// ÎïÆ·´úÂë
+    /// ç‰©å“ä»£ç 
     /// </summary>
     [ObservableProperty]
     [NotifyPropertyChangedFor(nameof(ConsoleCode))]
     public partial string ItemCode { get; set; } = "000877A7";
 
     /// <summary>
-    /// Ğ§¹û´úÂë
+    /// æ•ˆæœä»£ç 
     /// </summary>
     [ObservableProperty]
     [NotifyPropertyChangedFor(nameof(ConsoleCode))]
     public partial string EffectCode1 { get; set; } = string.Empty;
 
     /// <summary>
-    /// Ğ§¹ûËµÃ÷1
+    /// æ•ˆæœè¯´æ˜1
     /// </summary>
     [ObservableProperty]
     public partial string EffectDescription1 { get; set; } = string.Empty;
 
     /// <summary>
-    /// Ğ§¹û´úÂë2
+    /// æ•ˆæœä»£ç 2
     /// </summary>
     [ObservableProperty]
     [NotifyPropertyChangedFor(nameof(ConsoleCode))]
     public partial string EffectCode2 { get; set; } = string.Empty;
 
     /// <summary>
-    /// Ğ§¹ûËµÃ÷2
+    /// æ•ˆæœè¯´æ˜2
     /// </summary>
     [ObservableProperty]
     public partial string EffectDescription2 { get; set; } = string.Empty;
 
     /// <summary>
-    /// ¿ØÖÆÌ¨´úÂë
+    /// æ§åˆ¶å°ä»£ç 
     /// </summary>
     public string ConsoleCode => $"playerenchantobject {ItemCode} {EffectCode1} {EffectCode2}";
 
     /// <summary>
-    /// ³õÊ¼»¯
+    /// åˆå§‹åŒ–
     /// </summary>
     /// <returns></returns>
     public async Task InitAsync()
     {
-        await _tool.InitAsync();
-        foreach (EnchantmentModel enchantment in _tool.Enchantments)
+        await EnchantmentTool.InitAsync();
+        foreach (EnchantmentModel enchantment in EnchantmentTool.Enchantments)
         {
             Enchantments.Add(enchantment);
         }
     }
 
     /// <summary>
-    /// ÄÜ·ñÌí¼Ó
+    /// èƒ½å¦æ·»åŠ 
     /// </summary>
     /// <param name="enchantment"></param>
     /// <param name="key"></param>

@@ -1,4 +1,4 @@
-using Materal.Extensions;
+锘縰sing Materal.Extensions;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 using System;
@@ -16,7 +16,7 @@ public sealed partial class MainWindow : Window
         LoadMenu();
     }
     /// <summary>
-    /// 导航视图选择更改事件
+    /// 瀵艰埅瑙嗗浘閫夋嫨鏇存敼浜嬩欢
     /// </summary>
     /// <param name="sender"></param>
     /// <param name="args"></param>
@@ -26,7 +26,7 @@ public sealed partial class MainWindow : Window
         contentFrame.Navigate(targetType);
     }
     /// <summary>
-    /// 加载菜单
+    /// 鍔犺浇鑿滃崟
     /// </summary>
     private void LoadMenu()
     {

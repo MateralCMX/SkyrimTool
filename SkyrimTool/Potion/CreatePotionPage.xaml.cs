@@ -1,11 +1,11 @@
-using Microsoft.UI.Xaml;
+ï»¿using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 using SkyrimTool.Enchantments.Models;
 using Windows.ApplicationModel.DataTransfer;
 
 namespace SkyrimTool.Potion;
 
-[Menu("´´½¨Ò©¼Á")]
+[Menu("Â´Â´Â½Â¨Ã’Â©Â¼Ã")]
 public sealed partial class CreatePotionPage : Page
 {
     public CreatePotionViewModel ViewModel { get; } = new();
