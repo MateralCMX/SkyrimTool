@@ -5,7 +5,7 @@ using Windows.ApplicationModel.DataTransfer;
 
 namespace SkyrimTool.Potion;
 
-[Menu("´´½¨Ò©¼Á")]
+[Menu("创建药剂")]
 public sealed partial class CreatePotionPage : Page
 {
     public CreatePotionViewModel ViewModel { get; } = new();
