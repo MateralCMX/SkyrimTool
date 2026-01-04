@@ -1,0 +1,482 @@
+[
+  {
+    "Name": "Silver Necklace",
+    "NameZH": "银项链",
+    "ID": "0009171B",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Silver Emerald Necklace",
+    "NameZH": "翡翠银项链",
+    "ID": "00087833",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Silver Jeweled Necklace",
+    "NameZH": "宝石银项链",
+    "ID": "00087834",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Silver Sapphire Necklace",
+    "NameZH": "蓝宝石银项链",
+    "ID": "00087832",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Gold Necklace",
+    "NameZH": "金项链",
+    "ID": "000877D5",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Gold Diamond Necklace",
+    "NameZH": "钻石金项链",
+    "ID": "000877F1",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Gold Jeweled Necklace",
+    "NameZH": "宝石金项链",
+    "ID": "00087835",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Gold Ruby Necklace",
+    "NameZH": "红宝石金项链",
+    "ID": "000877DC",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Amulet of Akatosh",
+    "NameZH": "阿卡托什护身符",
+    "ID": "000C8911",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Arkay",
+    "NameZH": "阿尔凯护身符",
+    "ID": "000CC848",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Bats DG",
+    "NameZH": "蝙蝠护身符（DG）",
+    "ID": "XX0068AE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Dibella",
+    "NameZH": "迪贝拉护身符",
+    "ID": "000C8915",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Julianos",
+    "NameZH": "朱利亚诺斯护身符",
+    "ID": "000C8917",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Kynareth",
+    "NameZH": "凯纳雷斯护身符",
+    "ID": "000C8919",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Mara",
+    "NameZH": "玛拉护身符",
+    "ID": "000C891B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Stendarr",
+    "NameZH": "斯坦达尔护身符",
+    "ID": "000CC844",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Talos",
+    "NameZH": "塔洛斯护身符",
+    "ID": "000CC846",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of Zenithar",
+    "NameZH": "泽尼萨尔护身符",
+    "ID": "000878BB",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of the Elder Council",
+    "NameZH": "长老议会护身符",
+    "ID": "000C8913",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Amulet of the Gargoyle DG",
+    "NameZH": "石像鬼护身符（DG）",
+    "ID": "XX00F4D5",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ancient Nord Amulet",
+    "NameZH": "古代诺德护身符",
+    "ID": "000CC842",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Andurs' Amulet of Arkay",
+    "NameZH": "安杜尔的阿尔凯护身符",
+    "ID": "00094E3E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Bone Hawk Amulet",
+    "NameZH": "骨鹰护身符",
+    "ID": "XX01AA0B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Charmed Necklace",
+    "NameZH": "魅惑项链",
+    "ID": "000C72E8",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Fjotli's Silver Locket",
+    "NameZH": "菲约特利的银质挂坠",
+    "ID": "0007D678",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Grosta's Necklace",
+    "NameZH": "格罗斯塔的项链",
+    "ID": "0006BBB5",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Jeweled Amulet",
+    "NameZH": "宝石护身符",
+    "ID": "0006B217",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Moon Amulet",
+    "NameZH": "月亮护身符",
+    "ID": "000D9394",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Alchemy",
+    "NameZH": "炼金项链",
+    "ID": "0010DF46",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Blocking",
+    "NameZH": "格挡项链",
+    "ID": "0010DF1C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Disease Immunity",
+    "NameZH": "疾病免疫项链",
+    "ID": "00100E65",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Dwindling Fire",
+    "NameZH": "火焰抗性衰减项链",
+    "ID": "000FC045",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Dwindling Frost",
+    "NameZH": "冰霜抗性衰减项链",
+    "ID": "000FC04B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Eminent Alchemy",
+    "NameZH": "强效炼金项链",
+    "ID": "0010DF48",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Eminent Blocking",
+    "NameZH": "强效格挡项链",
+    "ID": "0010DF1E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Eminent Haggling",
+    "NameZH": "强效议价项链",
+    "ID": "0010DF4E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Eminent Health",
+    "NameZH": "强效生命项链",
+    "ID": "000FC03A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Extreme Alchemy",
+    "NameZH": "极限炼金项链",
+    "ID": "0010DF49",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Extreme Blocking",
+    "NameZH": "极限格挡项链",
+    "ID": "0010DF1F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Extreme Haggling",
+    "NameZH": "极限议价项链",
+    "ID": "0010DF4F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Extreme Health",
+    "NameZH": "极限生命项链",
+    "ID": "000FC03B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Extreme Stamina",
+    "NameZH": "极限耐力项链",
+    "ID": "000FC059",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Fire Abatement",
+    "NameZH": "火焰抗性项链",
+    "ID": "000FC047",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Flame Suppression",
+    "NameZH": "火焰抑制项链",
+    "ID": "000FC046",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Frost Abatement",
+    "NameZH": "冰霜抗性项链",
+    "ID": "000FC04D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Frost Suppression",
+    "NameZH": "冰霜抑制项链",
+    "ID": "000FC04C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Grounding",
+    "NameZH": "防雷项链",
+    "ID": "000FC054",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Haggling",
+    "NameZH": "议价项链",
+    "ID": "0010DF4C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Health",
+    "NameZH": "生命项链",
+    "ID": "000FC038",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Major Alchemy",
+    "NameZH": "高级炼金项链",
+    "ID": "0010DF47",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Major Blocking",
+    "NameZH": "高级格挡项链",
+    "ID": "0010DF1D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Major Haggling",
+    "NameZH": "高级议价项链",
+    "ID": "0010DF4D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Major Health",
+    "NameZH": "高级生命项链",
+    "ID": "000FC039",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Mending",
+    "NameZH": "修复项链",
+    "ID": "0010DF58",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Minor Alchemy",
+    "NameZH": "初级炼金项链",
+    "ID": "0010DF45",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Minor Blocking",
+    "NameZH": "初级格挡项链",
+    "ID": "0010DF1B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Minor Haggling",
+    "NameZH": "初级议价项链",
+    "ID": "0010DF4B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Minor Health",
+    "NameZH": "初级生命项链",
+    "ID": "000FC037",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Peerless Alchemy",
+    "NameZH": "无双炼金项链",
+    "ID": "0010DF4A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Peerless Blocking",
+    "NameZH": "无双格挡项链",
+    "ID": "0010DF20",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Peerless Deft Hands",
+    "NameZH": "无双巧手项链",
+    "ID": "0010DF38",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Peerless Haggling",
+    "NameZH": "无双议价项链",
+    "ID": "0010DF50",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Peerless Health",
+    "NameZH": "无双生命项链",
+    "ID": "000FC03C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Poison Immunity",
+    "NameZH": "毒素免疫项链",
+    "ID": "00100E5F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Regeneration",
+    "NameZH": "再生项链",
+    "ID": "0010DF59",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Remedy",
+    "NameZH": "净化项链",
+    "ID": "0010DF57",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Revival",
+    "NameZH": "复苏项链",
+    "ID": "0010DF5A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Shock Abatement",
+    "NameZH": "电击抗性项链",
+    "ID": "000FC053",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of the Firewalker",
+    "NameZH": "火焰行者项链",
+    "ID": "000FC048",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of the Peerless Squire",
+    "NameZH": "无双侍从项链",
+    "ID": "0010DF32",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necklace of Warmth",
+    "NameZH": "保暖项链",
+    "ID": "000FC04E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Necromancer Amulet",
+    "NameZH": "死灵法师护身符",
+    "ID": "000C891D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ogmund's Amulet of Talos",
+    "NameZH": "奥格蒙德的塔洛斯护身符",
+    "ID": "00064796",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Raerek's Inscribed Amulet of Talos",
+    "NameZH": "拉雷克的塔洛斯铭文护身符",
+    "ID": "000E0BA2",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Reyda's Necklace",
+    "NameZH": "雷达的项链",
+    "ID": "000663DA",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Saarthal Amulet",
+    "NameZH": "萨尔塔尔护身符",
+    "ID": "000233D0",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Savos Aren's Amulet",
+    "NameZH": "萨沃斯·阿伦的护身符",
+    "ID": "000F1B33",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Shahvee's Amulet of Zenithar",
+    "NameZH": "沙维的泽尼萨尔护身符",
+    "ID": "000BFA0A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Strange Amulet",
+    "NameZH": "奇异护身符",
+    "ID": "000D2328",
+    "Unenchanted": false
+  },
+  {
+    "Name": "The Gauldur Amulet",
+    "NameZH": "高尔杜尔护身符",
+    "ID": "0002D773",
+    "Unenchanted": false
+  }
+]

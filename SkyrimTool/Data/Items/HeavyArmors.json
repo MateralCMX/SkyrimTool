@@ -1,0 +1,842 @@
+[
+  {
+    "Name": "Iron Armor",
+    "ID": "00012E49",
+    "NameZH": "铁制护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Iron Boots",
+    "ID": "00012E4B",
+    "NameZH": "铁制靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Iron Gauntlets",
+    "ID": "00012E46",
+    "NameZH": "铁制手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Iron Helmet",
+    "ID": "00012E4D",
+    "NameZH": "铁制头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Iron Shield",
+    "ID": "00012EB6",
+    "NameZH": "铁制盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Banded Iron Armor",
+    "ID": "00013948",
+    "NameZH": "镶带铁制护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Banded Iron Shield",
+    "ID": "0001394B",
+    "NameZH": "镶带铁制盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Armor",
+    "ID": "00013952",
+    "NameZH": "钢制护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Cuffed Boots",
+    "ID": "00013951",
+    "NameZH": "钢制扣边靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Shin Boots",
+    "ID": "000F6F21",
+    "NameZH": "钢制护胫靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Helmet",
+    "ID": "00013954",
+    "NameZH": "钢制头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Helmet (Nordic)",
+    "ID": "000F6F24",
+    "NameZH": "钢制头盔（诺德式）",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Nordic Gauntlets",
+    "ID": "00013953",
+    "NameZH": "钢制诺德式手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Imperial Gauntlets",
+    "ID": "000F6F23",
+    "NameZH": "钢制帝国式手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Shield",
+    "ID": "00013955",
+    "NameZH": "钢制盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Plate Armor",
+    "ID": "0001395C",
+    "NameZH": "钢制板甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Plate Boots",
+    "ID": "0001395B",
+    "NameZH": "钢制板甲靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Plate Gauntlets",
+    "ID": "0001395D",
+    "NameZH": "钢制板甲手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Steel Plate Helmet",
+    "ID": "0001395E",
+    "NameZH": "钢制板甲头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Armor",
+    "ID": "000136D5",
+    "NameZH": "帝国护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Boots",
+    "ID": "000136D6",
+    "NameZH": "帝国靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Bracers",
+    "ID": "000136D7",
+    "NameZH": "帝国护腕",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Helmet",
+    "ID": "00013EDC",
+    "NameZH": "帝国头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Shield",
+    "ID": "000135BA",
+    "NameZH": "帝国盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Officer's Helmet",
+    "ID": "000136CF",
+    "NameZH": "帝国军官头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Imperial Helmet (Closed)",
+    "ID": "0009610D",
+    "NameZH": "帝国头盔（封闭式）",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ancient Nord Armor",
+    "ID": "00018388",
+    "NameZH": "远古诺德护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ancient Nord Boots",
+    "ID": "00056A9D",
+    "NameZH": "远古诺德靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ancient Nord Gauntlets",
+    "ID": "00056B17",
+    "NameZH": "远古诺德手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ancient Nord Helmet",
+    "ID": "00056A9E",
+    "NameZH": "远古诺德头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dwarven Armor",
+    "ID": "0001394D",
+    "NameZH": "矮人护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dwarven Boots",
+    "ID": "0001394C",
+    "NameZH": "矮人靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dwarven Gauntlets",
+    "ID": "0001394E",
+    "NameZH": "矮人手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dwarven Helmet",
+    "ID": "0001394F",
+    "NameZH": "矮人头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dwarven Shield",
+    "ID": "00013950",
+    "NameZH": "矮人盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Orcish Armor",
+    "ID": "00013957",
+    "NameZH": "兽人护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Orcish Boots",
+    "ID": "00013956",
+    "NameZH": "兽人靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Orcish Gauntlets",
+    "ID": "00013958",
+    "NameZH": "兽人手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Orcish Helmet",
+    "ID": "00013959",
+    "NameZH": "兽人头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Orcish Shield",
+    "ID": "00013946",
+    "NameZH": "兽人盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ebony Armor",
+    "ID": "00013961",
+    "NameZH": "乌木护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ebony Boots",
+    "ID": "00013960",
+    "NameZH": "乌木靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ebony Gauntlets",
+    "ID": "00013962",
+    "NameZH": "乌木手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ebony Helmet",
+    "ID": "00013963",
+    "NameZH": "乌木头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ebony Shield",
+    "ID": "00013964",
+    "NameZH": "乌木盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dragonplate Armor",
+    "ID": "00013966",
+    "NameZH": "龙骨板甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dragonplate Boots",
+    "ID": "00013965",
+    "NameZH": "龙骨板甲靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dragonplate Gauntlets",
+    "ID": "00013967",
+    "NameZH": "龙骨板甲手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dragonplate Helmet",
+    "ID": "00013969",
+    "NameZH": "龙骨板甲头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dragonplate Shield",
+    "ID": "00013968",
+    "NameZH": "龙骨板甲盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Daedric Armor",
+    "ID": "0001396B",
+    "NameZH": "魔族护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Daedric Boots",
+    "ID": "0001396A",
+    "NameZH": "魔族靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Daedric Gauntlets",
+    "ID": "0001396C",
+    "NameZH": "魔族手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Daedric Helmet",
+    "ID": "0001396D",
+    "NameZH": "魔族头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Daedric Shield",
+    "ID": "0001396E",
+    "NameZH": "魔族盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Chitin Heavy Armor",
+    "ID": "XX01CD8A",
+    "NameZH": "重型甲壳护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Chitin Heavy Boots",
+    "ID": "XX01CD82",
+    "NameZH": "重型甲壳靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Chitin Heavy Gauntlets",
+    "ID": "XX01CD8B",
+    "NameZH": "重型甲壳手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Chitin Heavy Helmet",
+    "ID": "XX01CD8C",
+    "NameZH": "重型甲壳头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Armor",
+    "ID": "XX01CD93",
+    "NameZH": "骨模护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Guard Armor",
+    "ID": "XX037564",
+    "NameZH": "骨模守卫护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Pauldron Armor",
+    "ID": "XX037563",
+    "NameZH": "骨模肩甲护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Boots",
+    "ID": "XX01CD92",
+    "NameZH": "骨模靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Gauntlets",
+    "ID": "XX01CD94",
+    "NameZH": "骨模手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Helmet",
+    "ID": "XX01CD95",
+    "NameZH": "骨模头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Bonemold Shield",
+    "ID": "XX026234",
+    "NameZH": "骨模盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Improved Bonemold Armor",
+    "ID": "XX03AB26",
+    "NameZH": "改良骨模护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Improved Bonemold Boots",
+    "ID": "XX03AB25",
+    "NameZH": "改良骨模靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Improved Bonemold Gauntlets",
+    "ID": "XX03AB22",
+    "NameZH": "改良骨模手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Improved Bonemold Helmet",
+    "ID": "XX03AB23",
+    "NameZH": "改良骨模头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Improved Bonemold Shield",
+    "ID": "XX03AB24",
+    "NameZH": "改良骨模盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Nordic Carved Armor",
+    "ID": "XX01CD97",
+    "NameZH": "诺德雕花护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Nordic Carved Boots",
+    "ID": "XX01CD96",
+    "NameZH": "诺德雕花靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Nordic Carved Gauntlets",
+    "ID": "XX01CD98",
+    "NameZH": "诺德雕花手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Nordic Carved Helmet",
+    "ID": "XX01CD99",
+    "NameZH": "诺德雕花头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Nordic Shield",
+    "ID": "XX026236",
+    "NameZH": "诺德盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Stalhrim Armor",
+    "ID": "XX01CD9F",
+    "NameZH": "斯塔利姆护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Stalhrim Boots",
+    "ID": "XX01CD9E",
+    "NameZH": "斯塔利姆靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Stalhrim Gauntlets",
+    "ID": "XX01CDA0",
+    "NameZH": "斯塔利姆手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Stalhrim Helm",
+    "ID": "XX01CDA1",
+    "NameZH": "斯塔利姆头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Shellbug Helmet",
+    "ID": "XX012E8A",
+    "NameZH": "壳虫头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blades Armor",
+    "ID": "0004B28B",
+    "NameZH": "刀锋战士护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blades Boots",
+    "ID": "0004B288",
+    "NameZH": "刀锋战士靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blades Gauntlets",
+    "ID": "0004B28D",
+    "NameZH": "刀锋战士手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blades Helmet",
+    "ID": "0004B28F",
+    "NameZH": "刀锋战士头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blades Shield",
+    "ID": "0004F912",
+    "NameZH": "刀锋战士盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Armor",
+    "ID": "000B83CB",
+    "NameZH": "法尔玛护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Boots",
+    "ID": "000B83CD",
+    "NameZH": "法尔玛靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Gauntlets",
+    "ID": "000B83CF",
+    "NameZH": "法尔玛手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Helmet",
+    "ID": "0004C3CB",
+    "NameZH": "法尔玛头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Shield",
+    "ID": "0005C06C",
+    "NameZH": "法尔玛盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wolf Armor",
+    "ID": "000CAE15",
+    "NameZH": "狼族护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wolf Boots",
+    "ID": "000CEE7C",
+    "NameZH": "狼族靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wolf Gauntlets",
+    "ID": "000CEE7E",
+    "NameZH": "狼族手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wolf Helmet",
+    "ID": "0004C3D0",
+    "NameZH": "狼族头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ahzidal's Armor of Retribution",
+    "ID": "XX01DB97",
+    "NameZH": "阿兹达尔的复仇护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ahzidal's Boots of Waterwalking",
+    "ID": "XX01C655",
+    "NameZH": "阿兹达尔的踏水靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ahzidal's Gauntlets of Warding",
+    "ID": "XX01DB99",
+    "NameZH": "阿兹达尔的守护手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ahzidal's Helm of Vision",
+    "ID": "XX01DB98",
+    "NameZH": "阿兹达尔的洞察头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dawnguard Heavy Armor",
+    "ID": "XX00F3F7",
+    "NameZH": "重型黎明守卫护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dawnguard Heavy Armor",
+    "ID": "XX00F3FA",
+    "NameZH": "重型黎明守卫护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dawnguard Heavy Boots",
+    "ID": "XX014757",
+    "NameZH": "重型黎明守卫靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dawnguard Heavy Gauntlets",
+    "ID": "XX014758",
+    "NameZH": "重型黎明守卫手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dawnguard Full Helmet",
+    "ID": "XX0050D0",
+    "NameZH": "黎明守卫全覆式头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dawnguard Shield",
+    "ID": "XX0150B8",
+    "NameZH": "黎明守卫盾",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Hardened Armor",
+    "ID": "XX00E8DE",
+    "NameZH": "硬化法尔玛护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Hardened Boots",
+    "ID": "XX00E8DD",
+    "NameZH": "硬化法尔玛靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Hardened Gauntlets",
+    "ID": "XX00E8DF",
+    "NameZH": "硬化法尔玛手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Hardened Helm",
+    "ID": "XX00E8E0",
+    "NameZH": "硬化法尔玛头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Heavy Armor",
+    "ID": "XX0023E9",
+    "NameZH": "重型法尔玛护甲",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Heavy Boots",
+    "ID": "XX0023EF",
+    "NameZH": "重型法尔玛靴",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Heavy Gauntlets",
+    "ID": "XX0023ED",
+    "NameZH": "重型法尔玛手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Falmer Heavy Helm",
+    "ID": "XX0023EB",
+    "NameZH": "重型法尔玛头盔",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hevnoraak",
+    "ID": "00061CC1",
+    "NameZH": "赫夫诺拉克面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Konahrik",
+    "ID": "00061CD6",
+    "NameZH": "科纳里克面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Nahkriin",
+    "ID": "00061CA5",
+    "NameZH": "纳克林面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Otar",
+    "ID": "00061CC2",
+    "NameZH": "奥塔尔面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Rahgot",
+    "ID": "00061CC0",
+    "NameZH": "拉格特面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Vokun",
+    "ID": "00061CC9",
+    "NameZH": "沃昆面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ahzidal",
+    "ID": "XX0240FE",
+    "NameZH": "阿兹达尔面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Dukaan",
+    "ID": "XX0240FF",
+    "NameZH": "杜卡恩面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Miraak",
+    "ID": "XX039FA1",
+    "NameZH": "米拉克面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Miraak",
+    "ID": "XX039FA2",
+    "NameZH": "米拉克面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Miraak",
+    "ID": "XX039FA3",
+    "NameZH": "米拉克面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Zahkriisos",
+    "ID": "XX024037",
+    "NameZH": "扎克里索斯面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ancient Helmet of the Unburned",
+    "ID": "000F494E",
+    "NameZH": "不灭者的远古头盔",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ebony Mail",
+    "ID": "00052794",
+    "NameZH": "乌木链甲",
+    "Unenchanted": false
+  },
+  {
+    "Name": "General Tullius' Armor",
+    "ID": "0005CBFE",
+    "NameZH": "图留斯将军护甲",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Helm of Yngol",
+    "ID": "000295F3",
+    "NameZH": "英格尔的头盔",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Helm of Winterhold",
+    "ID": "000940D5",
+    "NameZH": "冬堡头盔",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Masque of Clavcus Vile",
+    "ID": "000D2846",
+    "NameZH": "克拉维库斯·维尔的面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Shield of Ysgramor",
+    "ID": "000E41D8",
+    "NameZH": "伊斯格拉莫之盾",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Spellbreaker",
+    "ID": "00045F96",
+    "NameZH": "破法者之盾",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Targe of the Blooded",
+    "ID": "000FC5BF",
+    "NameZH": "浴血小圆盾",
+    "Unenchanted": false
+  },
+  {
+    "Name": "The Jagged Crown",
+    "ID": "000DA750",
+    "NameZH": "锯齿王冠",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Aetherial Shield",
+    "ID": "XX005759",
+    "NameZH": "以太之盾",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Auriel's Shield",
+    "ID": "XX00284D",
+    "NameZH": "奥瑞埃尔之盾",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Cultist Mask",
+    "ID": "XX037B88",
+    "NameZH": "信徒面具",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Dented Iron Shield",
+    "ID": "XX03399C",
+    "NameZH": "凹陷铁制盾",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Visage of Mzund",
+    "ID": "XX038ADD",
+    "NameZH": "姆尊德的面容面具",
+    "Unenchanted": false
+  }
+]

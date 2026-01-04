@@ -1,0 +1,626 @@
+[
+  {
+    "ID": "0003B97C",
+    "Name": "Silver Ring",
+    "NameZH": "银戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000877A7",
+    "Name": "Silver Amethyst Ring",
+    "NameZH": "紫水晶银戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000877B1",
+    "Name": "Silver Ruby Ring",
+    "NameZH": "红宝石银戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000877AB",
+    "Name": "Silver Garnet Ring",
+    "NameZH": "石榴石银戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "0001CF2B",
+    "Name": "Gold Ring",
+    "NameZH": "金戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000877C9",
+    "Name": "Gold Diamond Ring",
+    "NameZH": "钻石金戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000877CA",
+    "Name": "Gold Emerald Ring",
+    "NameZH": "翡翠金戒指",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000877CB",
+    "Name": "Gold Sapphire Ring",
+    "NameZH": "蓝宝石金戒指",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Asgeir's Wedding Band",
+    "NameZH": "阿斯盖尔的结婚戒指",
+    "ID": "000F5A1D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Balwen's Ornamental Ring",
+    "NameZH": "巴尔温的装饰戒指",
+    "ID": "000DA735",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Bone Hawk Ring",
+    "NameZH": "骨鹰戒指",
+    "ID": "XX011CF5",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Calcelmo's Ring",
+    "NameZH": "卡尔塞尔莫之戒",
+    "ID": "000D8482",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Cursed Ring of Hircine",
+    "NameZH": "希尔辛的诅咒之戒",
+    "ID": "000F82FE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Enchanted Ring",
+    "NameZH": "魔法戒指",
+    "ID": "0002584C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Fjola's Wedding Band",
+    "NameZH": "菲约拉的结婚戒指",
+    "ID": "000D3BDB",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Hircine's Ring",
+    "NameZH": "希尔辛的戒指",
+    "ID": "0002AC60",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ilas-Tei's Ring",
+    "NameZH": "伊拉斯-泰的戒指",
+    "ID": "000D5047",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Katarina's Ornamental Ring",
+    "NameZH": "卡塔琳娜的装饰戒指",
+    "ID": "000DA733",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Madesi's Silver Ring",
+    "NameZH": "马德西的银戒指",
+    "ID": "00076F12",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Muiri's Ring",
+    "NameZH": "穆里的戒指",
+    "ID": "0006B218",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Nightweaver's Band",
+    "NameZH": "夜织者戒指",
+    "ID": "00068B83",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Pithi's Ornamental Ring",
+    "NameZH": "皮提的装饰戒指",
+    "ID": "000DA734",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Alteration",
+    "NameZH": "变形戒指",
+    "ID": "00100DEE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Archery",
+    "NameZH": "箭术戒指",
+    "ID": "00100E24",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Blocking",
+    "NameZH": "格挡戒指",
+    "ID": "00100DF4",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Conjuration",
+    "NameZH": "召唤之戒",
+    "ID": "00100DFA",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Destruction",
+    "NameZH": "毁灭之戒",
+    "ID": "00100E00",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Alteration",
+    "NameZH": "强效变形戒指",
+    "ID": "00100DF0",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Archery",
+    "NameZH": "强效箭术戒指",
+    "ID": "00100E26",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Blocking",
+    "NameZH": "强效格挡戒指",
+    "ID": "00100DF6",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Conjuration",
+    "NameZH": "强效召唤戒指",
+    "ID": "00100DFC",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Deft Hands",
+    "NameZH": "强效巧手戒指",
+    "ID": "00100E32",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Destruction",
+    "NameZH": "强效毁灭之戒",
+    "ID": "00100E02",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Health",
+    "NameZH": "强效生命戒指",
+    "ID": "000FCF00",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Illusion",
+    "NameZH": "强效幻象之戒",
+    "ID": "00100E14",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Lockpicking",
+    "NameZH": "强效开锁戒指",
+    "ID": "00100E20",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Magicka",
+    "NameZH": "强效魔力戒指",
+    "ID": "000FF7D5",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Eminent Squire",
+    "NameZH": "强效侍从戒指",
+    "ID": "00100E1B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Alteration",
+    "NameZH": "极限变形戒指",
+    "ID": "00100DF1",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Archery",
+    "NameZH": "极限箭术戒指",
+    "ID": "00100E27",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Blocking",
+    "NameZH": "极限格挡戒指",
+    "ID": "00100DF7",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Conjuration",
+    "NameZH": "极限召唤之戒",
+    "ID": "00100DFD",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Destruction",
+    "NameZH": "极限毁灭之戒",
+    "ID": "00100E03",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Health",
+    "NameZH": "极限生命戒指",
+    "ID": "000FCF01",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Illusion",
+    "NameZH": "极限幻象之戒",
+    "ID": "00100E15",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Lockpicking",
+    "NameZH": "极限开锁戒指",
+    "ID": "00100E21",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Magicka",
+    "NameZH": "极限魔力戒指",
+    "ID": "000FF7D6",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Extreme Squire",
+    "NameZH": "极限侍从戒指",
+    "ID": "00100E1C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Health",
+    "NameZH": "生命戒指",
+    "ID": "000FCEFE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Illusion",
+    "NameZH": "幻象之戒",
+    "ID": "00100E12",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Lockpicking",
+    "NameZH": "开锁戒指",
+    "ID": "00100E1E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Magic Abatement",
+    "NameZH": "魔法抗性戒指",
+    "ID": "0010DFCC",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Magicka",
+    "NameZH": "魔力戒指",
+    "ID": "000FF7D3",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Alteration",
+    "NameZH": "高级变形戒指",
+    "ID": "00100DEF",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Archery",
+    "NameZH": "高级箭术戒指",
+    "ID": "00100E25",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Blocking",
+    "NameZH": "高级格挡戒指",
+    "ID": "00100DF5",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Conjuration",
+    "NameZH": "高级召唤戒指",
+    "ID": "00100DFB",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Destruction",
+    "NameZH": "高级毁灭戒指",
+    "ID": "00100E01",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Health",
+    "NameZH": "高级生命戒指",
+    "ID": "000FCEFF",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Illusion",
+    "NameZH": "高级幻象之戒",
+    "ID": "00100E13",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Lockpicking",
+    "NameZH": "高级开锁戒指",
+    "ID": "00100E1F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Magicka",
+    "NameZH": "高级魔力戒指",
+    "ID": "000FF7D4",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Major Squire",
+    "NameZH": "高级侍从戒指",
+    "ID": "00100E1A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Mending",
+    "NameZH": "修复戒指",
+    "ID": "00100E52",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Alteration",
+    "NameZH": "初级变形戒指",
+    "ID": "000FF7DE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Archery",
+    "NameZH": "初级箭术戒指",
+    "ID": "00100E23",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Blocking",
+    "NameZH": "初级格挡戒指",
+    "ID": "00100DF3",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Conjuration",
+    "NameZH": "初级召唤戒指",
+    "ID": "00100DF9",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Destruction",
+    "NameZH": "初级毁灭戒指",
+    "ID": "00100DFF",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Health",
+    "NameZH": "初级生命戒指",
+    "ID": "000FCEFD",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Illusion",
+    "NameZH": "初级幻象之戒",
+    "ID": "00100E11",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Lockpicking",
+    "NameZH": "初级开锁戒指",
+    "ID": "00100E17",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Magicka",
+    "NameZH": "初级魔力戒指",
+    "ID": "000FF7D2",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Minor Squire",
+    "NameZH": "初级侍从戒指",
+    "ID": "00100E18",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Nullification",
+    "NameZH": "魔法无效戒指",
+    "ID": "0010DFCD",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Alteration",
+    "NameZH": "无双变形戒指",
+    "ID": "00100DF2",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Archery",
+    "NameZH": "无双箭术戒指",
+    "ID": "00100E28",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Blocking",
+    "NameZH": "无双格挡戒指",
+    "ID": "00100DF8",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Conjuration",
+    "NameZH": "无双召唤戒指",
+    "ID": "00100DFE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Destruction",
+    "NameZH": "无双毁灭戒指",
+    "ID": "00100E04",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Health",
+    "NameZH": "无双生命戒指",
+    "ID": "000FCF02",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Illusion",
+    "NameZH": "无双幻象戒指",
+    "ID": "00100E16",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Lockpicking",
+    "NameZH": "无双开锁戒指",
+    "ID": "00100E22",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Magicka",
+    "NameZH": "无双魔力戒指",
+    "ID": "000FF7D7",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Squire",
+    "NameZH": "无双侍从戒指",
+    "ID": "00100E1D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Peerless Stamina",
+    "NameZH": "无双耐力戒指",
+    "ID": "000FCEFC",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Pure Mixtures",
+    "NameZH": "纯净混合戒指",
+    "ID": "00090E32",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Recovery",
+    "NameZH": "恢复戒指",
+    "ID": "00100E5C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Regeneration",
+    "NameZH": "再生戒指",
+    "ID": "00100E53",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Remedy",
+    "NameZH": "净化戒指",
+    "ID": "00100E51",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Revival",
+    "NameZH": "复苏戒指",
+    "ID": "00100E54",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of Sneaking",
+    "NameZH": "潜行戒指",
+    "ID": "00100E41",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Beast",
+    "NameZH": "兽之戒",
+    "ID": "XX00E7FD",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Eminent Knight",
+    "NameZH": "强效骑士戒指",
+    "ID": "00100E0E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Erudite",
+    "NameZH": "博学之戒",
+    "ID": "XX00E7FE",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Extreme Knight",
+    "NameZH": "极限骑士戒指",
+    "ID": "00100E0F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Knight",
+    "NameZH": "骑士之戒",
+    "ID": "00100E0C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Major Knight",
+    "NameZH": "高级骑士戒指",
+    "ID": "00100E0D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Minor Knight",
+    "NameZH": "初级骑士戒指",
+    "ID": "00100E0B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Ring of the Peerless Knight",
+    "NameZH": "无双骑士戒指",
+    "ID": "00100E10",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Silver-Blood Family Ring",
+    "NameZH": "银血家族戒指",
+    "ID": "00024CFF",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Treoy's Ornamental Ring",
+    "NameZH": "特雷奥伊的装饰戒指",
+    "ID": "000DA732",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Viola's Gold Ring",
+    "NameZH": "维奥拉的金戒指",
+    "ID": "000403A9",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Wedding Ring",
+    "NameZH": "结婚戒指",
+    "ID": "0001CB34",
+    "Unenchanted": false
+  }
+]

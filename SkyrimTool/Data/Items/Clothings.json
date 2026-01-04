@@ -1,0 +1,926 @@
+[
+  {
+    "Name": "Belted Tunic",
+    "ID": "0001BE1A",
+    "NameZH": "束腰短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blacksmith's Apron",
+    "ID": "0005B69F",
+    "NameZH": "铁匠围裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blacksmith's Apron",
+    "ID": "0006FF37",
+    "NameZH": "铁匠围裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boy's Blue Tunic",
+    "ID": "XX00C744",
+    "NameZH": "男孩蓝色短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boy's Green Tunic",
+    "ID": "XX00C743",
+    "NameZH": "男孩绿色短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boy's Grey Tunic",
+    "ID": "XX00C745",
+    "NameZH": "男孩灰色短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boy's Red Tunic",
+    "ID": "XX00C742",
+    "NameZH": "男孩红色短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boy's Yellow Tunic",
+    "ID": "XX00C746",
+    "NameZH": "男孩黄色短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Chef's Tunic",
+    "ID": "0001BC82",
+    "NameZH": "厨师短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Child's Clothes",
+    "ID": "0006D92C",
+    "NameZH": "儿童服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "000F1229",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "000209A6",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0006C1DA",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "00017695",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0006C1D9",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0006C1D8",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0003452E",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "000261C0",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0005B6A1",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0006FF38",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0004223C",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Clothes",
+    "ID": "0006FF45",
+    "NameZH": "普通服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Cultist Robes",
+    "ID": "XX037B8A",
+    "NameZH": "信徒长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Cultist Robes",
+    "ID": "XX01CDA6",
+    "NameZH": "信徒长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Outfit",
+    "ID": "XX03706A",
+    "NameZH": "丹莫服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Outfit",
+    "ID": "XX01CDAA",
+    "NameZH": "丹莫服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Outfit",
+    "ID": "XX037065",
+    "NameZH": "丹莫服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Outfit",
+    "ID": "XX037066",
+    "NameZH": "丹莫服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Outfit",
+    "ID": "XX03706B",
+    "NameZH": "丹莫服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Outfit",
+    "ID": "XX03706C",
+    "NameZH": "丹莫服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Embellished Robes",
+    "ID": "000E84C4",
+    "NameZH": "装饰长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Embroidered Garments",
+    "ID": "000EAD49",
+    "NameZH": "刺绣服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Clothes",
+    "ID": "000CEE80",
+    "NameZH": "精致服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Clothes",
+    "ID": "00086991",
+    "NameZH": "精致服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Clothes",
+    "ID": "000F8713",
+    "NameZH": "精致服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Clothes",
+    "ID": "000F8715",
+    "NameZH": "精致服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Raiment",
+    "ID": "000CEE76",
+    "NameZH": "华美礼服",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fur-Trimmed Cloak",
+    "ID": "0008698C",
+    "NameZH": "镶毛斗篷",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Girl's Blue Dress",
+    "ID": "XX00D81E",
+    "NameZH": "女孩蓝色长裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Girl's Green Dress",
+    "ID": "XX00D81F",
+    "NameZH": "女孩绿色长裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Girl's Grey Dress",
+    "ID": "XX00D820",
+    "NameZH": "女孩灰色长裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Girl's Red Dress",
+    "ID": "XX00D821",
+    "NameZH": "女孩红色长裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Girl's Yellow Dress",
+    "ID": "XX00D822",
+    "NameZH": "女孩黄色长裙",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hammerfell Garb",
+    "ID": "0007BC19",
+    "NameZH": "落锤行省服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Miner's Clothes",
+    "ID": "00080697",
+    "NameZH": "矿工服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mourner's Clothes",
+    "ID": "000646A7",
+    "NameZH": "哀悼者服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Noble Clothes",
+    "ID": "0005DB7B",
+    "NameZH": "贵族服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Radiant Raiment Fine Clothes",
+    "ID": "000E9EB5",
+    "NameZH": "光辉礼服店精制服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ragged Robes",
+    "ID": "00013105",
+    "NameZH": "破旧长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ragged Trousers",
+    "ID": "0008F19A",
+    "NameZH": "破旧长裤",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Redguard Clothes",
+    "ID": "000E0DD0",
+    "NameZH": "红卫人服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Roughspun Tunic",
+    "ID": "0003C9FE",
+    "NameZH": "粗纺短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Tavern Clothes",
+    "ID": "000D191F",
+    "NameZH": "酒馆服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Vampire Robes",
+    "ID": "XX019ADF",
+    "NameZH": "吸血鬼长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "0001BE1B",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000209A5",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000261BD",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "0003452F",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "0006B46C",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000D1921",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000BACD7",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000C5D12",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000E0DD4",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000CF8B0",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "0004223D",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "00080699",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "000C36E8",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "XX01570B",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Boots",
+    "ID": "XX0376D9",
+    "NameZH": "普通靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "College Boots",
+    "ID": "0010E2DC",
+    "NameZH": "学院靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "College Boots",
+    "ID": "0010E2CE",
+    "NameZH": "学院靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Cuffed Boots",
+    "ID": "000CEE78",
+    "NameZH": "翻边靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Cultist Boots",
+    "ID": "XX037B8E",
+    "NameZH": "信徒靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Dunmer Shoes",
+    "ID": "XX03705A",
+    "NameZH": "丹莫便鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Boots",
+    "ID": "00086993",
+    "NameZH": "精致靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Boots",
+    "ID": "000CEE82",
+    "NameZH": "精致靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Footwraps",
+    "ID": "0003CA00",
+    "NameZH": "裹脚布",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fur-Lined Boots",
+    "ID": "0005DB7E",
+    "NameZH": "镶毛靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Moth Priest Sandals",
+    "ID": "XX0047D9",
+    "NameZH": "蛾祭司凉鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Pleated Shoes",
+    "ID": "0008698E",
+    "NameZH": "褶边便鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Psiijic Boots",
+    "ID": "00065B9B",
+    "NameZH": "赛伊克教团靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ragged Boots",
+    "ID": "00013106",
+    "NameZH": "破旧靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Redguard Boots",
+    "ID": "0007BC15",
+    "NameZH": "红卫人靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Shoes",
+    "ID": "00018801",
+    "NameZH": "普通便鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Shoes",
+    "ID": "0005B6A0",
+    "NameZH": "普通便鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Shoes",
+    "ID": "000E80A8",
+    "NameZH": "普通便鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Shoes",
+    "ID": "0005B69E",
+    "NameZH": "普通便鞋",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Thalmor Boots",
+    "ID": "00065BAC",
+    "NameZH": "梭默靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Vampire Boots",
+    "ID": "XX019AE1",
+    "NameZH": "吸血鬼靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Black Robes",
+    "ID": "00106661",
+    "NameZH": "黑色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Blue Robes",
+    "ID": "000A199B",
+    "NameZH": "蓝色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "College Robes",
+    "ID": "000D3DEA",
+    "NameZH": "学院长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Green Robes",
+    "ID": "0010CFF0",
+    "NameZH": "绿色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Grey Robes",
+    "ID": "0010CFF1",
+    "NameZH": "灰色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Greybeard's Robe",
+    "ID": "00036A44",
+    "NameZH": "灰胡子长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hooded Black Robes",
+    "ID": "00107108",
+    "NameZH": "带兜帽黑色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hooded Monk Robes",
+    "ID": "00107106",
+    "NameZH": "带兜帽僧侣长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mage Robes",
+    "ID": "0006B46B",
+    "NameZH": "法师长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Monk Robes",
+    "ID": "000BACF3",
+    "NameZH": "僧侣长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Moth Priest Robes",
+    "ID": "XX0047D7",
+    "NameZH": "蛾祭司长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Psiijic Robes",
+    "ID": "00065B94",
+    "NameZH": "赛伊克教团长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Vaermina Robes",
+    "ID": "000E739B",
+    "NameZH": "瓦尔迷娜长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Red Hooded Robes",
+    "ID": "0010CFEB",
+    "NameZH": "带兜帽红色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Red Robes",
+    "ID": "0010CFF2",
+    "NameZH": "红色长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Skaal Villager's Outfit",
+    "ID": "XX01CDA9",
+    "NameZH": "斯卡尔村民服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Alik'r Hood",
+    "ID": "0007BC1A",
+    "NameZH": "阿里克尔兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Chef's Hat",
+    "ID": "0001BCA7",
+    "NameZH": "厨师帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Cowl",
+    "ID": "00017696",
+    "NameZH": "头巾兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Fine Hat",
+    "ID": "000CEE84",
+    "NameZH": "精致礼帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hat",
+    "ID": "000209AA",
+    "NameZH": "普通帽子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hat",
+    "ID": "000330B3",
+    "NameZH": "普通帽子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hat",
+    "ID": "000330BC",
+    "NameZH": "普通帽子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Hat",
+    "ID": "0004223B",
+    "NameZH": "普通帽子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mage Hood",
+    "ID": "000D3DE8",
+    "NameZH": "法师兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mage Hood",
+    "ID": "0010D6A6",
+    "NameZH": "法师兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mage Hood",
+    "ID": "0010D6A7",
+    "NameZH": "法师兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Moth Priest Blindfold",
+    "ID": "XX0047DA",
+    "NameZH": "蛾祭司眼罩",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mourner's Hat",
+    "ID": "000646AB",
+    "NameZH": "哀悼者帽子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Psiijic Hood",
+    "ID": "00065B99",
+    "NameZH": "赛伊克教团兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ragged Cap",
+    "ID": "00013104",
+    "NameZH": "破旧便帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Redguard Hood",
+    "ID": "000E0DD2",
+    "NameZH": "红卫人兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Vampire Hood",
+    "ID": "XX019ADE",
+    "NameZH": "吸血鬼兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Gloves",
+    "ID": "000261C1",
+    "NameZH": "普通手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Prisoner's Cuffs",
+    "ID": "0010E039",
+    "NameZH": "囚犯手铐",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Psiijic Gloves",
+    "ID": "00065B9D",
+    "NameZH": "赛伊克教团手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Thalmor Gloves",
+    "ID": "00065BB3",
+    "NameZH": "梭默手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Vampire Gloves",
+    "ID": "XX019AE3",
+    "NameZH": "吸血鬼手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Emperor's Robes",
+    "ID": "00015516",
+    "NameZH": "皇帝长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Party Clothes",
+    "ID": "000E40DF",
+    "NameZH": "宴会服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Refined Tunic",
+    "ID": "000E84C6",
+    "NameZH": "精制短袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Sheogorath Outfit",
+    "ID": "000C7CBB",
+    "NameZH": "谢尔格拉服饰",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Telvanni Robes",
+    "ID": "XX0376ED",
+    "NameZH": "泰瓦尼长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ulfric's Clothes",
+    "ID": "00062303",
+    "NameZH": "乌弗瑞克的服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wedding Dress",
+    "ID": "00088956",
+    "NameZH": "婚纱",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Archmage's Robes",
+    "ID": "0010F570",
+    "NameZH": "大法师长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Miraak's Robes",
+    "ID": "XX039E1E",
+    "NameZH": "米拉克长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Miraak's Robes",
+    "ID": "XX039D20",
+    "NameZH": "米拉克长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Miraak's Robes",
+    "ID": "XX039D22",
+    "NameZH": "米拉克长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mythic Dawn Robes",
+    "ID": "000B144D",
+    "NameZH": "神话黎明长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mythic Dawn Robes",
+    "ID": "00109C11",
+    "NameZH": "神话黎明长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Nocturnal's Clothes",
+    "ID": "00088952",
+    "NameZH": "诺克图娜尔的服装",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Taron Dreth's Robes",
+    "ID": "XX014C03",
+    "NameZH": "塔伦·德雷斯的长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Temple Priest Robes",
+    "ID": "XX01CDAB",
+    "NameZH": "神殿祭司长袍",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Temple Priest Hood",
+    "ID": "XX03B04E",
+    "NameZH": "神殿祭司兜帽",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wedding Wreath",
+    "ID": "0008895A",
+    "NameZH": "婚礼花环",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Arm Bandages",
+    "ID": "0004F006",
+    "NameZH": "护臂绷带",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mystic Tuning Gloves",
+    "ID": "00026C3B",
+    "NameZH": "神秘调谐手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mythic Dawn Gloves",
+    "ID": "000B145B",
+    "NameZH": "神话黎明手套",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ulfric's Bracers",
+    "ID": "0006230B",
+    "NameZH": "乌弗瑞克的护腕",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Mythic Dawn Boots",
+    "ID": "000B1460",
+    "NameZH": "神话黎明靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Party Boots",
+    "ID": "000E40DE",
+    "NameZH": "宴会靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Temple Priest Boots",
+    "ID": "XX03B04B",
+    "NameZH": "神殿祭司靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Ulfric's Boots",
+    "ID": "00062311",
+    "NameZH": "乌弗瑞克的靴子",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Wedding Sandals",
+    "ID": "00088958",
+    "NameZH": "婚礼凉鞋",
+    "Unenchanted": true
+  }
+]

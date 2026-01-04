@@ -1,0 +1,332 @@
+[
+  {
+    "ID": "00016730",
+    "Name": "Copper and Moonstone Circlet",
+    "NameZH": "月光石铜头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000166FF",
+    "Name": "Copper and Onyx Circlet",
+    "NameZH": "缟玛瑙铜头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "00016731",
+    "Name": "Copper and Ruby Circlet",
+    "NameZH": "红宝石铜头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000166FE",
+    "Name": "Copper and Sapphire Circlet",
+    "NameZH": "蓝宝石铜头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "0001672F",
+    "Name": "Gold and Emerald Circlet",
+    "NameZH": "绿宝石金头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000166FD",
+    "Name": "Gold and Ruby Circlet",
+    "NameZH": "红宝石金头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000166D6",
+    "Name": "Jade and Emerald Circlet",
+    "NameZH": "翡翠绿宝石头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "0001671A",
+    "Name": "Jade and Sapphire Circlet",
+    "NameZH": "翡翠蓝宝石头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "000166E0",
+    "Name": "Silver and Moonstone Circlet",
+    "NameZH": "月光石银头环",
+    "Unenchanted": true
+  },
+  {
+    "ID": "00016719",
+    "Name": "Silver and Sapphire Circlet",
+    "NameZH": "蓝宝石银头环",
+    "Unenchanted": true
+  },
+  {
+    "Name": "Circlet of Alchemy",
+    "NameZH": "炼金头环",
+    "ID": "000FC001",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Alteration",
+    "NameZH": "变形头环",
+    "ID": "000FC007",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Archery",
+    "NameZH": "箭术头环",
+    "ID": "000FC02B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Conjuration",
+    "NameZH": "召唤头环",
+    "ID": "000FC00D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Destruction",
+    "NameZH": "毁灭头环",
+    "ID": "000FC012",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Alchemy",
+    "NameZH": "强效炼金头环",
+    "ID": "000FC003",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Alteration",
+    "NameZH": "强效变形头环",
+    "ID": "000FC009",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Archery",
+    "NameZH": "强效箭术头环",
+    "ID": "000FC02D",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Conjuration",
+    "NameZH": "强效召唤头环",
+    "ID": "000FC00E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Destruction",
+    "NameZH": "强效毁灭头环",
+    "ID": "000FC015",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Illusion",
+    "NameZH": "强效幻象头环",
+    "ID": "000FC021",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Magicka",
+    "NameZH": "强效魔力头环",
+    "ID": "000FC027",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Eminent Restoration",
+    "NameZH": "强效恢复头环",
+    "ID": "000FC033",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Alchemy",
+    "NameZH": "极限炼金头环",
+    "ID": "000FC004",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Alteration",
+    "NameZH": "极限变形头环",
+    "ID": "000FC00A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Archery",
+    "NameZH": "极限箭术头环",
+    "ID": "000FC02E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Conjuration",
+    "NameZH": "极限召唤头环",
+    "ID": "000FC010",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Destruction",
+    "NameZH": "极限毁灭头环",
+    "ID": "000FC016",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Illusion",
+    "NameZH": "极限幻象头环",
+    "ID": "000FC022",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Magicka",
+    "NameZH": "极限魔力头环",
+    "ID": "000FC028",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Extreme Restoration",
+    "NameZH": "极限恢复头环",
+    "ID": "000FC034",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Illusion",
+    "NameZH": "幻象头环",
+    "ID": "000FC01F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Magicka",
+    "NameZH": "魔力头环",
+    "ID": "000FC025",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Major Alchemy",
+    "NameZH": "高级炼金头环",
+    "ID": "000FC002",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Major Alteration",
+    "NameZH": "高级变形头环",
+    "ID": "000FC008",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Major Archery",
+    "NameZH": "高级箭术头环",
+    "ID": "000FC02C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Major Destruction",
+    "NameZH": "高级毁灭头环",
+    "ID": "000FC014",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Major Magicka",
+    "NameZH": "高级魔力头环",
+    "ID": "000FC026",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Major Restoration",
+    "NameZH": "高级恢复头环",
+    "ID": "000FC032",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Alchemy",
+    "NameZH": "初级炼金头环",
+    "ID": "000FC000",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Alteration",
+    "NameZH": "初级变形头环",
+    "ID": "000FC006",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Archery",
+    "NameZH": "初级箭术头环",
+    "ID": "000FC02A",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Conjuration",
+    "NameZH": "初级召唤头环",
+    "ID": "000FC00C",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Illusion",
+    "NameZH": "初级幻象头环",
+    "ID": "000FC01E",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Magicka",
+    "NameZH": "初级魔力头环",
+    "ID": "000FC024",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Minor Restoration",
+    "NameZH": "初级恢复头环",
+    "ID": "000FC030",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Alchemy",
+    "NameZH": "无双炼金头环",
+    "ID": "000FC005",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Alteration",
+    "NameZH": "无双变形头环",
+    "ID": "000FC00B",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Archery",
+    "NameZH": "无双箭术头环",
+    "ID": "000FC02F",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Conjuration",
+    "NameZH": "无双召唤头环",
+    "ID": "000FC011",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Destruction",
+    "NameZH": "无双毁灭头环",
+    "ID": "000FC017",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Illusion",
+    "NameZH": "无双幻象头环",
+    "ID": "000FC023",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Magicka",
+    "NameZH": "无双魔力头环",
+    "ID": "000FC029",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Peerless Restoration",
+    "NameZH": "无双恢复头环",
+    "ID": "00100E39",
+    "Unenchanted": false
+  },
+  {
+    "Name": "Circlet of Restoration",
+    "NameZH": "恢复头环",
+    "ID": "000FC031",
+    "Unenchanted": false
+  }
+]

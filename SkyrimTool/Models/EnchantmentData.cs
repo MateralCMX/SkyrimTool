@@ -1,7 +1,7 @@
 ﻿namespace SkyrimTool.Models;
 
 /// <summary>
-/// 表示一个附魔数据条目，对应 JSON 文件中的一行记录。
+/// 附魔数据条目
 /// </summary>
 public partial class EnchantmentData
 {
