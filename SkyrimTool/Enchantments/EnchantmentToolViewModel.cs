@@ -1,5 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
-using SkyrimTool.Enchantments.Models;
+using SkyrimTool.Models;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
 
@@ -16,7 +16,7 @@ public partial class EnchantmentToolViewModel : ObservableObject
     partial void OnKeyWordChanged(string value)
     {
         Enchantments.Clear();
-        foreach (EnchantmentModel enchantment in EnchantmentTool.Enchantments)
+        foreach (EnchantmentData enchantment in SkyrimData.Enchantments)
         {
             if (!CanAdd(enchantment, value)) continue;
             Enchantments.Add(enchantment);
@@ -26,7 +26,7 @@ public partial class EnchantmentToolViewModel : ObservableObject
     /// <summary>
     /// 附魔组
     /// </summary>
-    public ObservableCollection<EnchantmentModel> Enchantments { get; } = [];
+    public ObservableCollection<EnchantmentData> Enchantments { get; } = [];
 
     /// <summary>
     /// 物品代码
@@ -72,8 +72,8 @@ public partial class EnchantmentToolViewModel : ObservableObject
     /// <returns></returns>
     public async Task InitAsync()
     {
-        await EnchantmentTool.InitAsync();
-        foreach (EnchantmentModel enchantment in EnchantmentTool.Enchantments)
+        await SkyrimData.InitAsync();
+        foreach (EnchantmentData enchantment in SkyrimData.Enchantments)
         {
             Enchantments.Add(enchantment);
         }
@@ -85,7 +85,7 @@ public partial class EnchantmentToolViewModel : ObservableObject
     /// <param name="enchantment"></param>
     /// <param name="key"></param>
     /// <returns></returns>
-    private static bool CanAdd(EnchantmentModel enchantment, string key)
+    private static bool CanAdd(EnchantmentData enchantment, string key)
     {
         if (string.IsNullOrEmpty(key)) return true;
         return enchantment.EnchID.Contains(key) || enchantment.Enchantment.Contains(key) || enchantment.EnchantmentZH.Contains(key);

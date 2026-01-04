@@ -13,16 +13,13 @@
 		<EnableMsixTooling>true</EnableMsixTooling>
 		<Nullable>enable</Nullable>
 		<LangVersion>preview</LangVersion>
+		<NoWarn>IDE0060;</NoWarn>
 		<!--不打包-->
 		<WindowsPackageType>None</WindowsPackageType>
 		<!--自包含 Windows App SDK Runtime-->
 		<WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 	</PropertyGroup>
-	<ItemGroup>
-	  <None Remove="Enchantments\EnchantmentToolPage.xaml" />
-	  <None Remove="Potion\CreatePotionPage.xaml" />
-	</ItemGroup>
 
 	<ItemGroup>
 		<Content Include="Assets\SplashScreen.scale-200.png" />
@@ -48,21 +45,14 @@
 	</ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+		<PackageReference Include="Materal.Extensions" Version="1.3.13" />
 		<PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.7175" />
 		<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.251106002" />
 	</ItemGroup>
 	<ItemGroup>
-		<ProjectReference Include="..\SkyrimTool.Enchantments\SkyrimTool.Enchantments.csproj" />
-	</ItemGroup>
-	<ItemGroup>
-	  <Page Update="Enchantments\EnchantmentToolPage.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </Page>
-	</ItemGroup>
-	<ItemGroup>
-	  <Page Update="Potion\CreatePotionPage.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </Page>
+	  <None Update="Data\**">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>
 	</ItemGroup>
 
 	<!--

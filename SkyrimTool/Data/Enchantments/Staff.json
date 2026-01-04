@@ -1,0 +1,101 @@
+[
+  {
+    "EnchID": "0010FDD4",
+    "Enchantment": "Frenzy",
+    "EnchantmentZH": "狂乱术",
+    "Variable": "AlchInfluenceAggUpComboCOPY0000",
+    "VariableZH": "炼金影响激进提升组合COPY0000",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010FDD3",
+    "Enchantment": "Frostbite",
+    "EnchantmentZH": "冻伤术",
+    "Variable": "crFrostDamageConcAimed",
+    "VariableZH": "CR冰霜伤害集中瞄准",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010FDD2",
+    "Enchantment": "Sparks",
+    "EnchantmentZH": "电火花术",
+    "Variable": "crShockDamageConcAimed",
+    "VariableZH": "CR电击伤害集中瞄准",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010FDD1",
+    "Enchantment": "Flames",
+    "EnchantmentZH": "火焰术",
+    "Variable": "crFireDamageConcAimed",
+    "VariableZH": "CR火焰伤害集中瞄准",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010F7F1",
+    "Enchantment": "Incinerate",
+    "EnchantmentZH": "焚毁术",
+    "Variable": "FireDamageFFAimed75",
+    "VariableZH": "火焰伤害范围瞄准75",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010F7F0",
+    "Enchantment": "Icy Spear",
+    "EnchantmentZH": "寒冰长矛",
+    "Variable": "FrostDamageFFAimed75",
+    "VariableZH": "冰霜伤害范围瞄准75",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010F7EF",
+    "Enchantment": "Thunderbolt",
+    "EnchantmentZH": "雷霆术",
+    "Variable": "ShockDamageFFAimed75",
+    "VariableZH": "电击伤害范围瞄准75",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010EE49",
+    "Enchantment": "Conjure Storm Atronach",
+    "EnchantmentZH": "召唤风暴魔神",
+    "Variable": "SummonStormAtronachNPC",
+    "VariableZH": "召唤风暴魔神NPC",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  },
+  {
+    "EnchID": "0010EE48",
+    "Enchantment": "Conjure Frost Atronach",
+    "EnchantmentZH": "召唤霜冻魔神",
+    "Variable": "SummonFrostAtronachNPC",
+    "VariableZH": "召唤霜冻魔神NPC",
+    "Tested": "n",
+    "OnlyEnchantment": "",
+    "Effect": "",
+    "EffectZH": ""
+  }
+]

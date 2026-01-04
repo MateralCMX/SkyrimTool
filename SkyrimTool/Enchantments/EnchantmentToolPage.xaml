@@ -5,7 +5,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="using:SkyrimTool.Enchantments"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:models="using:SkyrimTool.Enchantments.Models"
+    xmlns:models="using:SkyrimTool.Models"
     mc:Ignorable="d">
 
     <Grid Grid.Column="1" RowSpacing="8">
@@ -66,7 +66,7 @@
             ItemsSource="{x:Bind ViewModel.Enchantments}"
             SelectionMode="None">
             <ListView.ItemTemplate>
-                <DataTemplate x:DataType="models:EnchantmentModel">
+                <DataTemplate x:DataType="models:EnchantmentData">
                     <Grid Padding="12" ColumnSpacing="12">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="auto" />
