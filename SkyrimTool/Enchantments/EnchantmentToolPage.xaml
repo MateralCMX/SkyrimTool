@@ -12,7 +12,6 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="auto" />
             <RowDefinition Height="auto" />
-            <RowDefinition Height="auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid Grid.Row="0" ColumnSpacing="8">
@@ -24,11 +23,8 @@
             <TextBox
                 Grid.Column="0"
                 Text="{x:Bind ViewModel.ItemCode, Mode=TwoWay}"
-                Header="物品">
-                <TextBox.Description>
-                    <HyperlinkButton Content="查询" NavigateUri="https://elderscrolls.fandom.com/wiki/Console_Commands_(Skyrim)/Rings" />
-                </TextBox.Description>
-            </TextBox>
+                Description="{x:Bind ViewModel.ItemDescription, Mode=OneWay}"
+                Header="物品" />
             <TextBox
                 Grid.Column="1"
                 VerticalAlignment="Top"
@@ -57,54 +53,115 @@
                 Text="player.setav enchanting 1000"
                 IsTextSelectionEnabled="True" />
         </StackPanel>
-        <TextBox
-            Grid.Row="2"
-            Text="{x:Bind ViewModel.KeyWord, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
-            PlaceholderText="关键字" />
-        <ListView
-            Grid.Row="3"
-            ItemsSource="{x:Bind ViewModel.Enchantments}"
-            SelectionMode="None">
-            <ListView.ItemTemplate>
-                <DataTemplate x:DataType="models:EnchantmentData">
-                    <Grid Padding="12" ColumnSpacing="12">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="auto" />
-                            <ColumnDefinition Width="auto" />
-                            <ColumnDefinition Width="auto" />
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <StackPanel Orientation="Horizontal" Spacing="4">
-                            <Button
-                                Content="效果1"
-                                Click="Effect1Button_Click"
-                                Tag="{x:Bind}" />
-                            <Button
-                                Content="效果2"
-                                Click="Effect2Button_Click"
-                                Tag="{x:Bind}" />
-                        </StackPanel>
-                        <TextBlock
-                            Grid.Column="1"
-                            HorizontalAlignment="Left"
-                            VerticalAlignment="Center"
-                            Text="{x:Bind EnchantmentZH}"
-                            IsTextSelectionEnabled="True" />
-                        <TextBlock
-                            Grid.Column="2"
-                            HorizontalAlignment="Left"
-                            VerticalAlignment="Center"
-                            Text="{x:Bind VariableZH}"
-                            IsTextSelectionEnabled="True" />
-                        <TextBlock
-                            Grid.Column="3"
-                            HorizontalAlignment="Left"
-                            VerticalAlignment="Center"
-                            Text="{x:Bind EffectZH}"
-                            IsTextSelectionEnabled="True" />
-                    </Grid>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+        <Grid Grid.Row="2" ColumnSpacing="8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="260" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" ColumnSpacing="8">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <ComboBox
+                        Grid.Column="0"
+                        SelectedValuePath="Value"
+                        DisplayMemberPath="Name"
+                        ItemsSource="{x:Bind ViewModel.ItemTypes}"
+                        SelectedValue="{x:Bind ViewModel.SelectedItemTypeValue, Mode=TwoWay}" />
+                    <TextBox
+                        Grid.Column="1"
+                        Text="{x:Bind ViewModel.ItemKeyWord, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                        PlaceholderText="关键字" />
+                </Grid>
+                <ListView
+                    Grid.Row="1"
+                    ItemsSource="{x:Bind ViewModel.Items}"
+                    SelectionMode="None">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="models:ItemData">
+                            <Grid Padding="12" ColumnSpacing="12">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Orientation="Horizontal" Spacing="4">
+                                    <Button
+                                        Content="物品"
+                                        Click="ItemButton_Click"
+                                        Tag="{x:Bind}" />
+                                </StackPanel>
+                                <TextBlock
+                                    Grid.Column="1"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Text="{x:Bind NameZH}"
+                                    IsTextSelectionEnabled="True" />
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <TextBox
+                    Grid.Row="0"
+                    Text="{x:Bind ViewModel.EnchantmentKeyWord, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    PlaceholderText="关键字" />
+                <ListView
+                    Grid.Row="1"
+                    ItemsSource="{x:Bind ViewModel.Enchantments}"
+                    SelectionMode="None">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="models:EnchantmentData">
+                            <Grid Padding="12" ColumnSpacing="12">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="auto" />
+                                    <ColumnDefinition Width="auto" />
+                                    <ColumnDefinition Width="auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Orientation="Horizontal" Spacing="4">
+                                    <Button
+                                        Content="效果1"
+                                        Click="Effect1Button_Click"
+                                        Tag="{x:Bind}" />
+                                    <Button
+                                        Content="效果2"
+                                        Click="Effect2Button_Click"
+                                        Tag="{x:Bind}" />
+                                </StackPanel>
+                                <TextBlock
+                                    Grid.Column="1"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Text="{x:Bind EnchantmentZH}"
+                                    IsTextSelectionEnabled="True" />
+                                <TextBlock
+                                    Grid.Column="2"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Text="{x:Bind VariableZH}"
+                                    IsTextSelectionEnabled="True" />
+                                <TextBlock
+                                    Grid.Column="3"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center"
+                                    Text="{x:Bind EffectZH}"
+                                    IsTextSelectionEnabled="True" />
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </Grid>
     </Grid>
 </Page>

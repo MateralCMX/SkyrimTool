@@ -22,6 +22,13 @@ public sealed partial class EnchantmentToolPage : Page
         Loaded -= EnchantmentToolPage_Loaded;
     }
 
+    private void ItemButton_Click(object sender, RoutedEventArgs e)
+    {
+        if (sender is not Button button || button.Tag is not ItemData item) return;
+        ViewModel.ItemCode = item.ID;
+        ViewModel.ItemDescription = item.NameZH;
+    }
+
     private void Effect1Button_Click(object sender, RoutedEventArgs e)
     {
         if (sender is not Button button || button.Tag is not EnchantmentData enchantment) return;

@@ -518,31 +518,31 @@
   {
     "Name": "Falmer Armor",
     "ID": "000B83CB",
-    "NameZH": "法尔玛护甲",
+    "NameZH": "雪精灵护甲",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Boots",
     "ID": "000B83CD",
-    "NameZH": "法尔玛靴",
+    "NameZH": "雪精灵靴",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Gauntlets",
     "ID": "000B83CF",
-    "NameZH": "法尔玛手套",
+    "NameZH": "雪精灵手套",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Helmet",
     "ID": "0004C3CB",
-    "NameZH": "法尔玛头盔",
+    "NameZH": "雪精灵头盔",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Shield",
     "ID": "0005C06C",
-    "NameZH": "法尔玛盾",
+    "NameZH": "雪精灵盾",
     "Unenchanted": true
   },
   {
@@ -632,49 +632,49 @@
   {
     "Name": "Falmer Hardened Armor",
     "ID": "XX00E8DE",
-    "NameZH": "硬化法尔玛护甲",
+    "NameZH": "硬化雪精灵护甲",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Hardened Boots",
     "ID": "XX00E8DD",
-    "NameZH": "硬化法尔玛靴",
+    "NameZH": "硬化雪精灵靴",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Hardened Gauntlets",
     "ID": "XX00E8DF",
-    "NameZH": "硬化法尔玛手套",
+    "NameZH": "硬化雪精灵手套",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Hardened Helm",
     "ID": "XX00E8E0",
-    "NameZH": "硬化法尔玛头盔",
+    "NameZH": "硬化雪精灵头盔",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Heavy Armor",
     "ID": "XX0023E9",
-    "NameZH": "重型法尔玛护甲",
+    "NameZH": "重型雪精灵护甲",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Heavy Boots",
     "ID": "XX0023EF",
-    "NameZH": "重型法尔玛靴",
+    "NameZH": "重型雪精灵靴",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Heavy Gauntlets",
     "ID": "XX0023ED",
-    "NameZH": "重型法尔玛手套",
+    "NameZH": "重型雪精灵手套",
     "Unenchanted": true
   },
   {
     "Name": "Falmer Heavy Helm",
     "ID": "XX0023EB",
-    "NameZH": "重型法尔玛头盔",
+    "NameZH": "重型雪精灵头盔",
     "Unenchanted": true
   },
   {
