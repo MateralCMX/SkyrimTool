@@ -1,0 +1,48 @@
+<Page
+    x:Class="SkyrimTool.Skills.SkillPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:SkyrimTool.Skills"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models="using:SkyrimTool.Models"
+    mc:Ignorable="d">
+
+    <Grid RowSpacing="8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <NumberBox
+                Header="技能等级"
+                Minimum="1"
+                Value="{x:Bind ViewModel.Level, Mode=TwoWay}" />
+        </StackPanel>
+        <ScrollView Grid.Row="1">
+            <StackPanel Spacing="8">
+                <local:SkillGroup
+                    Title="全部"
+                    IsExpanded="True"
+                    Level="{x:Bind ViewModel.Level, Mode=TwoWay}"
+                    SkillDatas="{x:Bind ViewModel.AllSkills, Mode=OneWay}" />
+                <local:SkillGroup
+                    Title="三神"
+                    Level="{x:Bind ViewModel.Level, Mode=TwoWay}"
+                    SkillDatas="{x:Bind ViewModel.Skills1, Mode=OneWay}" />
+                <local:SkillGroup
+                    Title="辅助"
+                    Level="{x:Bind ViewModel.Level, Mode=TwoWay}"
+                    SkillDatas="{x:Bind ViewModel.Skills2, Mode=OneWay}" />
+                <local:SkillGroup
+                    Title="法术"
+                    Level="{x:Bind ViewModel.Level, Mode=TwoWay}"
+                    SkillDatas="{x:Bind ViewModel.Skills3, Mode=OneWay}" />
+                <local:SkillGroup
+                    Title="物理"
+                    Level="{x:Bind ViewModel.Level, Mode=TwoWay}"
+                    SkillDatas="{x:Bind ViewModel.Skills4, Mode=OneWay}" />
+            </StackPanel>
+        </ScrollView>
+    </Grid>
+</Page>

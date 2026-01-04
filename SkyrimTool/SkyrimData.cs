@@ -10,6 +10,7 @@ namespace SkyrimTool;
 
 public static class SkyrimData
 {
+    #region 数据
     /// <summary>
     /// 附魔
     /// </summary>
@@ -51,6 +52,12 @@ public static class SkyrimData
     public static IReadOnlyList<ItemData> HeavyArmors { get; private set; } = [];
 
     /// <summary>
+    /// 技能
+    /// </summary>
+    public static IReadOnlyList<SkillData> Skills { get; private set; } = [];
+    #endregion
+    #region 私有字段
+    /// <summary>
     /// 数据路径
     /// </summary>
     private static readonly string _dataPath = Path.Combine(typeof(SkyrimData).Assembly.GetDirectoryPath(), "Data");
@@ -64,6 +71,7 @@ public static class SkyrimData
     /// 初始化信号量
     /// </summary>
     private static readonly SemaphoreSlim _initSemaphoreSlim = new(1, 1);
+    #endregion
 
     /// <summary>
     /// 初始化
@@ -85,11 +93,23 @@ public static class SkyrimData
             Clothings = await ReadItemDataAsync(nameof(Clothings));
             LightArmors = await ReadItemDataAsync(nameof(LightArmors));
             HeavyArmors = await ReadItemDataAsync(nameof(HeavyArmors));
+            Skills = await ReadSkillDataAsync(nameof(Skills));
         }
         finally
         {
             _initSemaphoreSlim.Release();
         }
+    }
+
+    /// <summary>
+    /// 读取技能数据
+    /// </summary>
+    /// <param name="fileNames"></param>
+    /// <returns></returns>
+    private static async Task<List<SkillData>> ReadSkillDataAsync(params string[] fileNames)
+    {
+        List<SkillData> result = await ReadDataAsync<SkillData>(_dataPath, fileNames);
+        return [.. result.OrderBy(m => m.ID)];
     }
 
     /// <summary>

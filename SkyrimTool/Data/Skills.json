@@ -1,0 +1,128 @@
+[
+  {
+    "ID": "alteration",
+    "Name": "变化",
+    "Groups": [
+      "法术"
+    ]
+  },
+  {
+    "ID": "conjuration",
+    "Name": "召唤",
+    "Groups": [
+      "法术"
+    ]
+  },
+  {
+    "ID": "destruction",
+    "Name": "毁灭",
+    "Groups": [
+      "法术"
+    ]
+  },
+  {
+    "ID": "illusion",
+    "Name": "迷幻",
+    "Groups": [
+      "法术"
+    ]
+  },
+  {
+    "ID": "restoration",
+    "Name": "回复",
+    "Groups": [
+      "法术"
+    ]
+  },
+  {
+    "ID": "onehanded",
+    "Name": "单手",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "twohanded",
+    "Name": "双手",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "marksman",
+    "Name": "箭术",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "block",
+    "Name": "格挡",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "heavyarmor",
+    "Name": "重甲",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "lightarmor",
+    "Name": "轻甲",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "sneak",
+    "Name": "潜行",
+    "Groups": [
+      "物理"
+    ]
+  },
+  {
+    "ID": "lockpicking",
+    "Name": "开锁",
+    "Groups": [
+      "辅助"
+    ]
+  },
+  {
+    "ID": "pickpocket",
+    "Name": "偷窃",
+    "Groups": [
+      "辅助"
+    ]
+  },
+  {
+    "ID": "speechcraft",
+    "Name": "口才",
+    "Groups": [
+      "辅助"
+    ]
+  },
+  {
+    "ID": "enchanting",
+    "Name": "附魔",
+    "Groups": [
+      "三神"
+    ]
+  },
+  {
+    "ID": "smithing",
+    "Name": "锻造",
+    "Groups": [
+      "三神"
+    ]
+  },
+  {
+    "ID": "alchemy",
+    "Name": "炼金",
+    "Groups": [
+      "三神"
+    ]
+  }
+]

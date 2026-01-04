@@ -13,13 +13,13 @@ public sealed partial class CreatePotionPage : Page
     public CreatePotionPage()
     {
         InitializeComponent();
-        Loaded += EnchantmentToolPage_Loaded;
+        Loaded += CreatePotionPage_Loaded;
     }
 
-    private void EnchantmentToolPage_Loaded(object sender, RoutedEventArgs e)
+    private void CreatePotionPage_Loaded(object sender, RoutedEventArgs e)
     {
         DispatcherQueue.TryEnqueue(async () => await ViewModel.InitAsync());
-        Loaded -= EnchantmentToolPage_Loaded;
+        Loaded -= CreatePotionPage_Loaded;
     }
 
     private void Effect1Button_Click(object sender, RoutedEventArgs e)
