@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SkyrimTool (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SkyrimTool (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

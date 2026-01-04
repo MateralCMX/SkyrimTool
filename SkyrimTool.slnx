@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SkyrimTool.Enchantments/SkyrimTool.Enchantments.csproj" Id="11908300-e27f-4e26-99f3-a45ec607a507" />
+  <Project Path="SkyrimTool/SkyrimTool.csproj" Id="20ecdf87-5f47-4371-aac4-978d49ab31fa">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="*|x86" Project="x86" />
+    <Deploy />
+  </Project>
+</Solution>
